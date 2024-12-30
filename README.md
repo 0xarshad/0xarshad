@@ -65,7 +65,7 @@ I believe in the power of **continuous learning**, and I’m always experimentin
 ### 📫 **Connect with me**  
 Feel free to reach out if you want to collaborate, discuss security, or just talk about the latest exploits. I'm always open to networking!
 
-**Email** - 0xarshadu@gmail.com
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="15"/> **Email** - 0xarshadu@gmail.com
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15"/> **Linkedin** - https://www.linkedin.com/in/arshad-u-7a7045207
 
