@@ -67,7 +67,7 @@ Feel free to reach out if you want to collaborate, discuss security, or just tal
 
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="15"/> **Email** - 0xarshadu@gmail.com
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15"/> **Linkedin** - https://www.linkedin.com/in/arshad-u-7a7045207
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="15"/> **Linkedin** - https://www.linkedin.com/in/0xarshad
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" width="15"/> **Twitter(X)** - https://x.com/0xarshad
 
