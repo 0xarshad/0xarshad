@@ -28,7 +28,7 @@ Here are some of the **amazing tools** I use often.
 ---
 
 ### 💻 **Tech Stack**
-I am not an developer,  still have some knowledge on :
+I am not a developer,  still have some knowledge on :
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50"/>
 - <img src="https://bashlogo.com/img/logo/png/full_colored_light.png" width="50"/>
